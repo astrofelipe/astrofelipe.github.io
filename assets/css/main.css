@@ -1993,6 +1993,10 @@ input, select, textarea {
 					background-color: #FE6D35;
 				}
 
+				ul.contact li:hover a.fa-lastfm {
+					background-color: #d51007;
+				}
+
 			ul.contact li:active {
 				top: 0;
 			}
