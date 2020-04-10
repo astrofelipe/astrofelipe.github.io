@@ -1997,6 +1997,10 @@ input, select, textarea {
 					background-color: #d51007;
 				}
 
+				ul.contact li:hover a.fa-twitch {
+					background-color: #6441A4;
+				}
+
 			ul.contact li:active {
 				top: 0;
 			}
