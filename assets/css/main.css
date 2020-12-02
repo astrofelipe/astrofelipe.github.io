@@ -2001,6 +2001,10 @@ input, select, textarea {
 					background-color: #6441A4;
 				}
 
+				ul.contact li:hover a.fa-youtube {
+					background-color: #e52d27;
+				}
+
 			ul.contact li:active {
 				top: 0;
 			}
